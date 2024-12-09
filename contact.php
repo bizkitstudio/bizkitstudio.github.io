@@ -41,7 +41,7 @@ $comments = htmlspecialchars($comments);
 // Enter the email address that you want to emails to be sent to.
 
 //$address = "example@youremail.net";
-$address = "clapatform@gmail.com";
+$address = "pennypang.t@gmail.com";
 
 
 // Configuration option.
@@ -49,7 +49,7 @@ $address = "clapatform@gmail.com";
 
 // Example, $e_subject = '$name . ' has contacted you via Your Website.';
 
-$e_subject = 'You\'ve been contacted by ' . $name . '.';
+$e_subject = 'Bizkit Studio enquiry from  ' . $name . '.';
 
 
 // Configuration option.
